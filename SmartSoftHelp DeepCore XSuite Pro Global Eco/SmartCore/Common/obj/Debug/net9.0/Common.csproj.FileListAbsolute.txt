@@ -1,0 +1,11 @@
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\bin\Debug\net9.0\Common.deps.json
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\bin\Debug\net9.0\Common.dll
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\bin\Debug\net9.0\Common.pdb
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\Common.AssemblyInfo.cs
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\Common.dll
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\refint\Common.dll
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\Common.pdb
+D:\smartsofthelp v3.0\smartsofthelp2.02022-12-30-16-55\smartsofthelp2.0\SmartSqlserver - 2.0-2022-12-24\SmartSqlserver - 2.0\SmartSqlserver\bin\Release\SmartCore\Common\obj\Debug\net9.0\ref\Common.dll

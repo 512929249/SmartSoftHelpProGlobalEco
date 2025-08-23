@@ -1,0 +1,5 @@
+1.程序权限不足问题：右键 SmartSoftHelp DeepCore XSuite.exe程序->以管理员身份运行->软件程序
+2.界面缩放显示问题：右键 SmartSoftHelp DeepCore XSuite.exe程序->属性->兼容性->更改高DPI设置->替代高DPI缩放行为(√)->选择应用程序->确定 ||或者根据实际情况调整兼容性问题
+3.程序响应缓慢问题：建议使用高配置电脑运行软件，系统win10及以上，电脑配置越高越流畅
+4.程序界面黑屏问题：建议使用高配置电脑运行软件，高性能CPU，独立显卡
+5.程序未知异常问题：查看根目录ErrorLog，系统异常：\\sysException，软件异常：\\Exception  【百度，豆包，DeepSeek】 解决...
